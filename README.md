@@ -1,6 +1,11 @@
 ## The LavCorps! Repository
+
 ***
-![LavCorps! R&D](https://github.com/lavcorps-rnd.png)
+
+![LavCorps! R&D][rnd]
+
 ***
-The LavCorps! Repository is a place that serves as the main page for the LavCorps! R&D organization.  
-Other projects will be linked here.
+
+The _LavCorps! Repository_ is a place that serves as the main page for the _LavCorps! R&D_ organization. Other _LavCorps!_ projects will be linked here.
+
+[rnd]: https://github.com/lavcorps-rnd.png "LavCorps! R&D"
